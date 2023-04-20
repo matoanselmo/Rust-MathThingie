@@ -13,26 +13,13 @@ The available options are:
 
 To use the application, simply run the program and follow the prompts. The program will continue to run until the user chooses to quit.
 
-## Getting Started
-
-To run the program, you will need to have Rust installed on your system. Once Rust is installed, you can compile the program with the following command:
-
-```
-$ cargo build
-```
-
-This will create an executable file in the `target/debug` directory. To run the program, use the following command:
-
-```
-$ cargo run
-```
-
 ## Contributing
 
 Contributions to this project are welcome. If you find a bug or have a suggestion for a new feature, please open an issue or submit a pull request.
+Aah yes pleas, i`m still learning.
 
 ## License
 
-This program is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This program is licensed under the [MIT License](https://opensource.org/licenses/MIT). (Idek what this is)
 
 # Totally not generated using AI
